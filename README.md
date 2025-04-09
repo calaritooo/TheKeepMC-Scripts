@@ -26,3 +26,14 @@ Being my first experience and what led me to begin contributing
 to and writing my own Java projects, I decided that for now
 I would make my scripts public for comments, suggestions, contributions,
 and criticism. 
+## Future features
+- Pickpocketing
+- Fine system via reporting crimes to nearby guards
+- Bounty hunting profession
+- Archer/Swordsman/Axeguard/Shroud skills
+- More towns, villages, forts, etc.
+- Main quest line
+- Improved shop system
+- Global player market
+- Player-rentable properties in unlockable areas
+- Deities, their offerings, their blessings
